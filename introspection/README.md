@@ -11,3 +11,4 @@ First and foremost I aim to keep a good academic record. So I'll work extremely 
 JAVA and Python thoroughly. I had participated in a CTF in my first semester and quite enjoyed it. I aim to solve more and more complex problems of previous CTFs. I also plan to register for Generation Google Scholarship and Google Summer of Code in my next semester. (and any other competitions I come across)
 
 **c. How would you contribute back to the club?**
+I would be very happy to lend a helping hand and be supportive in the activities and events conducted by the club. I'll willingly share my knowledge and understanding with those who need it.  
