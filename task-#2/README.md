@@ -10,3 +10,7 @@ I realized that the 'Start' and 'Stop' had to be replaced after successfully run
 Also, it was required that the operator doesn't change each time and remains constant throughout, and the name had to be changed from "MathQuiz" to "MathsQuiz" as per the given question. 
 
 Similarly, I was able to successfully remove all the errors after running the code multiple times.  
+
+[Code](https://github.com/shraddha5chopra/cognizance-tasks/blob/main/task-%232/MathsQuiz.java)
+
+[Output](
