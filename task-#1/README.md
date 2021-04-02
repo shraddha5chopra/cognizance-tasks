@@ -20,4 +20,4 @@ First we'll divide x by 5 which is step 1 taken by the elephant and the % will h
 
 [C++ Code](https://github.com/shraddha5chopra/cognizance-tasks/blob/8be122c0468039e776c80599ce762f1dbdf987fb/task-%231/elecode.cpp)
 
-[Output] 
+[Output](https://github.com/shraddha5chopra/cognizance-tasks/blob/8be122c0468039e776c80599ce762f1dbdf987fb/task-%231/eleOutput.png)
