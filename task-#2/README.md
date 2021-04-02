@@ -13,4 +13,4 @@ Similarly, I was able to successfully remove all the errors after running the co
 
 [Code](https://github.com/shraddha5chopra/cognizance-tasks/blob/main/task-%232/MathsQuiz.java)
 
-[Output](
+[Output](https://github.com/shraddha5chopra/cognizance-tasks/blob/main/task-%232/Output%232.png)
