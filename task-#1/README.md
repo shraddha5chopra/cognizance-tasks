@@ -17,3 +17,7 @@ Then, we need to calculate the minimum number of steps the elephant needs to tak
 The steps can range from 1 to 5.
 
 First we'll divide x by 5 which is step 1 taken by the elephant and the % will help us in calculating the rest of the required steps. 
+
+[C++ Code]
+
+[Output] 
