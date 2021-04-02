@@ -7,6 +7,6 @@ The initial errors were unnecessary commented lines, semi-colons and brackets mi
 After removing these errors, I ran the code on my Visual Source Code to check for the logical errors and removed them. 
 I realized that the 'Start' and 'Stop' had to be replaced after successfully running it for the first time.
 
-Also, the name had to be changed from "MathQuiz" to "MathsQuiz" as per the given question. 
+Also, it was required that the operator doesn't change each time and remains constant throughout, and the name had to be changed from "MathQuiz" to "MathsQuiz" as per the given question. 
 
 Similarly, I was able to successfully remove all the errors after running the code multiple times.  
